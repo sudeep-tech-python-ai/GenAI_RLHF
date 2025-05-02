@@ -1,5 +1,5 @@
 #ignore ALL files in below directory
 myenv/
-ANN_classification_Project/ANN_env
+ANN_env
 #ingore .env files
 .env
