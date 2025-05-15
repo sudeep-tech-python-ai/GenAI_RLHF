@@ -1,5 +1,7 @@
 #ignore ALL files in below directory
 myenv/
 ANN_env
+Langchain/genai_env
 #ingore .env files
 .env
+Langchain/.env
