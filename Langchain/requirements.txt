@@ -38,3 +38,4 @@ pinecone-text
 pinecone-notebooks
 neo4j==5.14
 langchain_neo4j
+langgraph
